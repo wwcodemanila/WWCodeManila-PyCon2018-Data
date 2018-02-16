@@ -16,6 +16,7 @@ Reminders:
 1. Bring your own laptop (or share with a friend)
 2. [Install needed tools](#tools-and-installation)
 3. Download the [materials](#outline-and-materials)
+4. Optional: Familiarize your self with [Jupyter Notebook](#launching-the-jupyter-notebook)
 
 ## Outline and Materials
 The workshop is divided into the following topics. Please download [these materials](#) ahead of the workshop.
@@ -29,7 +30,7 @@ The workshop is divided into the following topics. Please download [these materi
 
 
 ## Tools and installation
-We'll be using these following tools.
+This will take a bit to download and install so **make sure to set this up before the workshop starts**.
 
 * Python 3.x
 * Jupyter notebook
@@ -49,9 +50,6 @@ Once you have installed Anaconda, you also need to install the Python library `p
 ```shell
 conda install plotly
 ```
-
-
-
 
 ## Launching the Jupyter Notebook
 
