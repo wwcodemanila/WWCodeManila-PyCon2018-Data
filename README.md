@@ -16,6 +16,8 @@ Reminders:
 3. Download the [materials](materials)
 4. Optional: Familiarize your self with [Jupyter Notebook](#launching-the-jupyter-notebook)
 
+Requirement: An understanding of the [Python programming language](https://www.python.org/) is necessary to answer the exercises. 
+
 ## Outline
 The workshop is divided into the following topics. **Please download the [materials](materials) ahead of the workshop.**
 
