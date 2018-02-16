@@ -19,7 +19,7 @@ Reminders:
 4. Optional: Familiarize your self with [Jupyter Notebook](#launching-the-jupyter-notebook)
 
 ## Outline
-The workshop is divided into the following topics. **Please download [these materials](materials) ahead of the workshop.**
+The workshop is divided into the following topics. **Please download the [materials](materials) ahead of the workshop.**
 
 * [Introduction](materials/00_Introduction.pdf) and [Documentation with Jupyter notebook](#) (15 mins)
 * [Data handling](#) (45 mins)
@@ -39,13 +39,13 @@ This will take a bit to download and install so **make sure to set this up befor
 * Seaborn
 * Plotly
 
-The easiest way to obtain most of these is to install the [latest version of Anaconda](https://www.anaconda.com/download/). Simply download the corresponding executable for your operating system. For this workshop, we'll be using the Python 3.6.x version. The installer should guide your through the process.
+The easiest way to obtain most of these is to install the [latest version of Anaconda](https://www.anaconda.com/download/). Simply download the corresponding executable for your operating system. For this workshop, we'll be using the Python 3.6.x version. The installer should guide you through the process.
 
 Once you have installed Anaconda, you also need to install the Python library `plotly` for the visualization part.
 
 
 1. Open `Anaconda Prompt` from the Start menu (Windows) or open the `Terminal` application (Mac/Linux). 
-2. Type the following, which should guide you through the installation process.: 
+2. Type the following, which should guide you through the installation process: 
 
 ```shell
 conda install plotly
@@ -65,7 +65,10 @@ jupyter notebook
 
 The notebook will be launched in a new browser window. You can go ahead and explore the dashboard.  More things that you can do is in this [guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html). 
 
-At the start of the workshop, we'll also help you with navigating and using the notebook. But if you want a quick go-over on your own, here's a [great YouTube resource](https://www.youtube.com/watch?v=jZ952vChhuI). Another way to maximize this tool is to familiarize yourselves with [keyboard shortcuts](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html). We'll use the basic shortcuts during the workshop, and we'll let you explore more on your own.
+At the start of the workshop, we'll also help you with navigating and using the notebook. But if you want a quick go-over on your own, here's a good [YouTube resource](https://www.youtube.com/watch?v=jZ952vChhuI). Another way to maximize this tool is to familiarize yourselves with [keyboard shortcuts](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html). We'll use the basic shortcuts during the workshop, and we'll let you explore more on your own.
+
+#### Tip: Navigating to the workshop notebooks
+To make finding these notebooks simpler, save the workshop [materials](materials) in the same disk (e.g `C:` or `/home` ) where you installed Anaconda. Using the Jupyter dashboard, simply click the folders leading up to the `*.ipynb` files. 
 
 
 ## Credits
