@@ -1,9 +1,7 @@
 # "Hello, World of Data!": Your ABC blocks in data handling, analysis, and visualization
 
-Marylette Roa, Iris Uy, Isabelle Tingzon, Clau Yagyagan, and the WWCode Manila community  
-[PyConPH 2018](https://pycon.python.ph/)  
-February 25, 2018  
-iAcademy Plaza, Gil Puyat Ave,. Makati City  
+by Marylette Roa, Iris Uy, Isabelle Tingzon, Clau Yagyagan, and the [WWCode Manila](https://www.meetup.com/Women-Who-Code-Manila/) community  
+Presented at [PyConPH 2018](https://pycon.python.ph/) at iAcademy Plaza, Gil Puyat Ave,. Makati City on February 25 2018.
 
 
 ## Description
