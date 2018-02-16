@@ -15,13 +15,13 @@ Reminders:
 
 1. Bring your own laptop (or share with a friend)
 2. [Install needed tools](#tools-and-installation)
-3. Download the [materials](#outline-and-materials)
+3. Download the [materials](materials)
 4. Optional: Familiarize your self with [Jupyter Notebook](#launching-the-jupyter-notebook)
 
-## Outline and Materials
+## Outline
 The workshop is divided into the following topics. **Please download [these materials](materials) ahead of the workshop.**
 
-* [Introduction](#) and [Documentation with Jupyter notebook](#) (15 mins)
+* [Introduction](materials/00_Introduction) and [Documentation with Jupyter notebook](#) (15 mins)
 * [Data handling](#) (45 mins)
 * [Analysis](#) (45 mins)
 * [Visualization](#) (45 mins)
