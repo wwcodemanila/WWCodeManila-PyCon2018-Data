@@ -9,8 +9,8 @@ iAcademy Plaza, Gil Puyat Ave,. Makati City
 ## Description
 This workshop covers an introduction to data analysis using Python. It aims to introduce beginners to concepts, commonly used tools, and workflows to document, describe, analyze, and visualize data. 
 
-Time: 3 hrs
-Format: Follow-along demos & exercises
+Time: 3 hrs  
+Format: Follow-along demos & exercises  
 Reminders:
 
 1. Bring your own laptop (or share with a friend)
