@@ -57,7 +57,7 @@ Most of the materials in this workshop are presented using follow-along Jupyter 
 
 You can also [try Jupyter](https://try.jupyter.org/) without installing. 
 
-However, Anaconda comes with Jupyter notebook! To launch this locally on your computer, simply look for the *Jupyter Notebook* icon in the Start Menu or Desktop (Windows) or type the following in the command prompt or terminal (Windows, Mac, Linux): 
+However, Anaconda comes with Jupyter notebook! To launch this locally on your computer, simply look for the Jupyter Notebook icon in the Start Menu or Desktop (Windows) or type the following in the command prompt or terminal (Windows, Mac, Linux): 
 
 ```shell
 jupyter notebook
@@ -69,4 +69,4 @@ At the start of the workshop, we'll also help you with navigating and using the 
 
 
 ## Credits
-We based our materials and exercises, with permission, on [Professor Jennifer Widom's](http://www.professorwidom.org/) short course on Big Data.
+We based our materials and exercises, with permission, on [Professor Jennifer Widom's short course on Big Data](http://www.professorwidom.org/bigdata/).
