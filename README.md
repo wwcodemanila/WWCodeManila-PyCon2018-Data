@@ -1,13 +1,13 @@
 # "Hello, World of Data!": Your ABC blocks in data handling, analysis, and visualization
 
-Marylette Roa, Iris Uy, Isabelle Tingzon, Clau Yagyagan, and the WWCode Manila community
-[PyConPH 2018](https://pycon.python.ph/)
-February 25, 2018
-iAcademy Plaza, Gil Puyat Ave,. Makati City
+Marylette Roa, Iris Uy, Isabelle Tingzon, Clau Yagyagan, and the WWCode Manila community  
+[PyConPH 2018](https://pycon.python.ph/)  
+February 25, 2018  
+iAcademy Plaza, Gil Puyat Ave,. Makati City  
 
 
 ## Description
-This workshop covers an introduction to data analysis using Python. It aims to introduce beginners to concepts, commonly used tools, and workflows to document, describe, analyze, and visualize data. 
+This workshop covers an introduction to data analysis using the programming language [Python](https://www.python.org/). It aims to introduce basic concepts, commonly used tools, and workflows to document, describe, analyze, and visualize data. Our targeted audience are those who are new to Python as a tool for data analysis, as well as those who are beginners in data analysis and are looking for tools to get started.
 
 Time: 3 hrs  
 Format: Follow-along demos & exercises  
@@ -39,9 +39,9 @@ This will take a bit to download and install so **make sure to set this up befor
 * Seaborn
 * Plotly
 
-The easiest way to obtain most of these is to install the [latest version of Anaconda](https://www.anaconda.com/download/). Simply download the corresponding executable for your operating system. For this workshop, we'll be using the Python 3.6.x version. The installer should guide you through the process.
+The easiest way to obtain most of these is to install the [latest version of Anaconda](https://www.anaconda.com/download/). Simply download the corresponding executable for your operating system. For this workshop, please choose the Python 3.6.x version. The installer should guide you through the process.
 
-Once you have installed Anaconda, you also need to install the Python library `plotly` for the visualization part.
+Once you have installed Anaconda, you also need to install the Python library `plotly` for the visualization part:
 
 
 1. Open `Anaconda Prompt` from the Start menu (Windows) or open the `Terminal` application (Mac/Linux). 
