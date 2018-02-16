@@ -19,7 +19,7 @@ Reminders:
 4. Optional: Familiarize your self with [Jupyter Notebook](#launching-the-jupyter-notebook)
 
 ## Outline and Materials
-The workshop is divided into the following topics. **Please download [these materials](#) ahead of the workshop.**
+The workshop is divided into the following topics. **Please download [these materials](materials) ahead of the workshop.**
 
 * [Introduction](#) and [Documentation with Jupyter notebook](#) (15 mins)
 * [Data handling](#) (45 mins)
