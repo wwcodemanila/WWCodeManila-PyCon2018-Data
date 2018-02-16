@@ -1,6 +1,6 @@
 ## Materials
 
-This folder contains the Python notebooks and copy of lectures to be used and discussed during the "Hello, World of Data" workshop. Please make sure to **download these resources before the workshop begins**. 
+This folder contains the Python notebooks and copy of lecture to be used and discussed during the "Hello, World of Data" workshop. Please make sure to **download these resources before the workshop begins**. 
 
 The installer for `Anaconda` can be found [here](https://www.anaconda.com/download/). Please download and install the Python 3.6.x version.
 
