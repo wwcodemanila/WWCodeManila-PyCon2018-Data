@@ -21,7 +21,7 @@ Reminders:
 ## Outline
 The workshop is divided into the following topics. **Please download [these materials](materials) ahead of the workshop.**
 
-* [Introduction](materials/00_Introduction) and [Documentation with Jupyter notebook](#) (15 mins)
+* [Introduction](materials/00_Introduction.pdf) and [Documentation with Jupyter notebook](#) (15 mins)
 * [Data handling](#) (45 mins)
 * [Analysis](#) (45 mins)
 * [Visualization](#) (45 mins)
