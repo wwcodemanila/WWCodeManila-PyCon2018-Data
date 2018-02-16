@@ -71,7 +71,7 @@ At the start of the workshop, we'll also help you with navigating and using the 
 To make finding these notebooks simpler, save the workshop [materials](materials) in the same disk (e.g `C:`) where you installed Anaconda (Windows), or launch the Jupyter notebook within the folder containing the materials using the `Terminal` (Mac/Linux):
 
 ```shell
-cd /path/to/wwcodemanila/data/workshop/materials
+cd /path/to/wwcodemanila/dataworkshop/materials
 jupyter notebook
 ```
 
