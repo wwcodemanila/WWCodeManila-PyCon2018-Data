@@ -68,7 +68,7 @@ The notebook will be launched in a new browser window. You can go ahead and expl
 At the start of the workshop, we'll also help you with navigating and using the notebook. But if you want a quick go-over on your own, here's a good [YouTube resource](https://www.youtube.com/watch?v=jZ952vChhuI). Another way to maximize this tool is to familiarize yourselves with [keyboard shortcuts](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html). We'll use the basic shortcuts during the workshop, and we'll let you explore more on your own.
 
 #### Tip: Navigating to the workshop notebooks
-To make finding these notebooks simpler, save the workshop [materials](materials) in the same disk (e.g `C:`) where you installed Anaconda (Windows), or launch the Jupyter notebook within the folder containing the materials using the `Terminal` (Mac/Linux):
+To make finding these notebooks simpler, save the workshop [materials](materials) in the same disk (e.g `C:`) where you installed Anaconda and open Jupyter Notebook by searching for it's icon in the Start menu (Windows), or launch the Jupyter notebook within the folder containing the materials using the `Anaconda Prompt` (Windows) or `Terminal` (Mac/Linux):
 
 ```shell
 cd /path/to/wwcodemanila/dataworkshop/materials
