@@ -19,9 +19,9 @@ Reminders:
 Requirement: An understanding of the [Python programming language](https://www.python.org/) is necessary to answer the exercises. 
 
 ## Outline
-The workshop is divided into the following topics. **Please download the [materials](materials/01_Jupyter_Notebook.ipynb) ahead of the workshop.**
+The workshop is divided into the following topics. **Please download the [materials](materials) ahead of the workshop.**
 
-* [Introduction](materials/00_Introduction.pdf) and [Documentation with Jupyter notebook](#) (15 mins)
+* [Introduction](materials/00_Introduction.pdf) and [Documentation with Jupyter notebook](materials/01_Jupyter_Notebook.ipynb) (15 mins)
 * [Data handling](#) (45 mins)
 * [Analysis](#) (45 mins)
 * [Visualization](#) (45 mins)
