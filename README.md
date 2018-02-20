@@ -1,8 +1,13 @@
 # "Hello, World of Data!": Your ABC blocks in data handling, analysis, and visualization
 
 by Marylette Roa, Iris Uy, Isabelle Tingzon, Clau Yagyagan, and the [WWCode Manila](https://www.meetup.com/Women-Who-Code-Manila/) community  
-presented during [PyConPH 2018](https://pycon.python.ph/) at iAcademy Plaza, Gil Puyat Ave,. Makati City on February 25 2018.
+presented during [PyConPH 2018](https://pycon.python.ph/) at iAcademy Plaza, Gil Puyat Ave,. Makati City on February 25 2018.  
 
+These materials are available at:  
+
+* [GitHub](https://github.com/wwcodemanila/WWCodeManila-PyCon2018-Data)
+* [GitLab](https://gitlab.com/wwcodemanila/WWCodeManila-PyCon2018-Data)
+* [Bitbucket](https://bitbucket.org/wwcodemanila/WWCodeManila-PyCon2018-Data)
 
 ## Description
 This workshop covers an introduction to data analysis using the programming language [Python](https://www.python.org/). It aims to introduce basic concepts, commonly used tools, and workflows to document, describe, analyze, and visualize data. Our targeted audience are those who are new to Python as a tool for data analysis, as well as those who are beginners in data analysis and are looking for tools to get started.
