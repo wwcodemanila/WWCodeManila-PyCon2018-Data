@@ -23,7 +23,7 @@ The workshop is divided into the following topics. **Please download the [materi
 
 * Introduction and Documentation with Jupyter notebook (15 mins)
 * Data handling (45 mins)
-* Analysis] (45 mins)
+* Analysis (45 mins)
 * Visualization (45 mins)
 * Today I Learned (15 mins)
 * Q&A (15 mins)
