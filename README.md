@@ -4,6 +4,13 @@ by Marylette Roa, Iris Uy, Isabelle Tingzon, Clau Yagyagan, and the [WWCode Mani
 presented during [PyConPH 2018](https://pycon.python.ph/) at iAcademy Plaza, Gil Puyat Ave,. Makati City on February 25 2018.  
 
 
+These materials are available at:  
+
+* [GitHub](https://github.com/wwcodemanila/WWCodeManila-PyCon2018-Data)
+* [GitLab](https://gitlab.com/wwcodemanila/WWCodeManila-PyCon2018-Data)
+* [Bitbucket](https://bitbucket.org/wwcodemanila/WWCodeManila-PyCon2018-Data)
+
+
 ## Description
 This workshop covers an introduction to data analysis using the programming language [Python](https://www.python.org/). It aims to introduce basic concepts, commonly used tools, and workflows to document, describe, analyze, and visualize data. Our targeted audience are those who are new to Python as a tool for data analysis, as well as those who are beginners in data analysis and are looking for tools to get started.
 
@@ -80,3 +87,7 @@ Using the Jupyter dashboard, simply click the folders leading up to the `*.ipynb
 
 ## Credits
 We based our materials and exercises, with permission, on [Professor Jennifer Widom's short course on Big Data](http://www.professorwidom.org/bigdata/).
+
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
