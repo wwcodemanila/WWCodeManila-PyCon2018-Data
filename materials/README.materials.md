@@ -9,3 +9,5 @@ The command to install `plotly` via the `Anaconda Prompt` (Windows) or `Terminal
 ```shell
 conda install plotly
 ```
+
+**Important!** In order to plot with plotly, it is advisable to [set up an account](https://plot.ly/accounts/login/?action=login). Once you've registered, please change the username and API key to  your account's corresponding username and API key. You can get your API key [here](https://plot.ly/settings/api).
