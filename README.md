@@ -21,10 +21,10 @@ Requirement: An understanding of the [Python programming language](https://www.p
 ## Outline
 The workshop is divided into the following topics. **Please download the [materials](materials) ahead of the workshop.**
 
-* [Introduction](materials/00_Introduction.pdf) and [Documentation with Jupyter notebook](materials/01_Jupyter_Notebook.ipynb) (15 mins)
-* [Data handling](#) (45 mins)
-* [Analysis](#) (45 mins)
-* [Visualization](#) (45 mins)
+* Introduction and Documentation with Jupyter notebook (15 mins)
+* Data handling (45 mins)
+* Analysis] (45 mins)
+* Visualization (45 mins)
 * Today I Learned (15 mins)
 * Q&A (15 mins)
 
