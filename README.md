@@ -79,7 +79,7 @@ jupyter notebook
 Using the Jupyter dashboard, simply click the folders leading up to the `*.ipynb` files. 
 
 ## Setup a Plotly account
-In order to plot with plotly, it is advisable to [set up an account](https://plot.ly/accounts/login/?action=login). Once you've registered, please change the username and API key to  your account's corresponding username and API key. You can get your API key [here](https://plot.ly/settings/api).
+In order to plot with plotly, it is advisable to [set up an account](https://plot.ly/accounts/login/?action=login).
 
 ## Credits
 We based our materials and exercises, with permission, on [Professor Jennifer Widom's short course on Big Data](http://www.professorwidom.org/bigdata/).
