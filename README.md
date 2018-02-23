@@ -15,6 +15,7 @@ Reminders:
 2. [Install needed tools](#tools-and-installation)
 3. Download the [materials](materials)
 4. Optional: Familiarize your self with [Jupyter Notebook](#launching-the-jupyter-notebook)
+5. **Recommended**: Set up a [Plotly account](#setup-a-plotly-account)
 
 Requirement: An understanding of the [Python programming language](https://www.python.org/) is necessary to answer the exercises. 
 
@@ -77,6 +78,8 @@ jupyter notebook
 
 Using the Jupyter dashboard, simply click the folders leading up to the `*.ipynb` files. 
 
+## Setup a Plotly account
+In order to plot with plotly, it is advisable to [set up an account](https://plot.ly/accounts/login/?action=login). Once you've registered, please change the username and API key to  your account's corresponding username and API key. You can get your API key [here](https://plot.ly/settings/api).
 
 ## Credits
 We based our materials and exercises, with permission, on [Professor Jennifer Widom's short course on Big Data](http://www.professorwidom.org/bigdata/).
