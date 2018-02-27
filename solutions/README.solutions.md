@@ -1,5 +1,5 @@
 ## Solutions
 
-We'll upload the solutions to the exercises here *after the workshop*.  
+This folder contains the solutions to the materials covered in the "Hello, World of Data" workshop.  
 
-Stay tuned! 
+Enjoy learning!  
